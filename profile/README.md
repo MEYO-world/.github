@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./logo-white.png">
-  <img src="./logo-black.png" alt="MEYO.world" width="340">
+  <img src="./logo-black.png" alt="MEYO.world" width="220">
 </picture>
 
 <br/><br/>
@@ -61,7 +61,7 @@ Free worldwide shipping &nbsp;·&nbsp; 24-hour cancellation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./logo-white.png">
-  <img src="./logo-black.png" alt="MEYO" width="120">
+  <img src="./logo-black.png" alt="MEYO" width="100">
 </picture>
 
 <br/><br/>
